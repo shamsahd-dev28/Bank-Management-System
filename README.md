@@ -78,7 +78,6 @@ bank-management-system/
 
 ## 👨‍💻 Author
 
-Your Name
 GitHub: https://github.com/shamshad28
 
 
